@@ -3,5 +3,5 @@ nHomens= int(input('digite a quantidade de homens matriculados na classe:'))
 total= nMulher + nHomens
 permulher= (nMulher / total) * 100
 perhomem= (nHomens / total) * 100
-print('O percentutal de mulheres é:', permulher)
-print('O percentual de homens é:', perhomem)
+print('O percentutal de mulheres é:', permulher , '%')
+print('O percentual de homens é:', perhomem , '%')
